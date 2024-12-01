@@ -1,5 +1,6 @@
 # D1_PARCO
 Repository made to share my work with the professors of Parallel Computing 
+
 This List of actions are proposed for users using the Windows operating system.
 
 Before starting, ensure you have installed: WSL (Windows Subsystem for Linux) or an equivalent Linux environment (e.g., a VM). Choose based on preference, but note differences in Python and C++ compilation may arise. If using a VM, some commands might be different than the ones I give you here, Python and g++ (latest versions, with support for OpenMP and AVX) for program compilation and execution, and a VPN to connect to the cluster, if working remotely.
