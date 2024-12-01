@@ -10,7 +10,7 @@
 module load gcc91 || exit 1
 
 # Change to the working directory
-cd /home/Your_Username || exit 1
+cd /home/Your_Username/gabriele_bazzanella_bauer_235266 || exit 1
 
 # Compile the program
 g++ -std=c++11 MatrixTranspSeq_Final.cpp -o DataGenerator_1 || exit 1
