@@ -1,5 +1,6 @@
 # D1_PARCO
 Repository made to share my work with the professors of Parallel Computing 
+This List of actions are proposed for users using the Windows operating system.
 
 Before starting, ensure you have installed: WSL (Windows Subsystem for Linux) or an equivalent Linux environment (e.g., a VM). Choose based on preference, but note differences in Python and C++ compilation may arise. If using a VM, some commands might be different than the ones I give you here, Python and g++ (latest versions, with support for OpenMP and AVX) for program compilation and execution, and a VPN to connect to the cluster, if working remotely.
 1) To start: open 3 terminals (you'll need all of them later) and use the cd command to reach the destination you plan of using to download the content of my repository (you could use mkdir to create a new folder but I will suggest using a git command that already creates a folder with a custom name so I do not recommend it), do this for two terminals;
